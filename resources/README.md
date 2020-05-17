@@ -3,6 +3,7 @@ You need to know the following stuffs to get started with the PyTorch Learning P
 
 ## Object Oriented Python Programming
 - [Python classes and objects(tutorials point)](https://www.tutorialspoint.com/python/python_classes_objects.htm)
+- [Introduction to OOP by Sentdex](https://pythonprogramming.net/object-oriented-programming-introduction-intermediate-python-tutorial/)
 
 ## Git and GitHub
 - [GitHub Beginner](https://www.notion.so/GitHub-Beginner-34ddb2bdd2054224bd31c24ce84d64f1)
