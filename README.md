@@ -17,7 +17,7 @@ Every 2 days we will share a chapter of the PyTorch docs in the morning. Partici
 * Should know Git and GitHub. 
 * Should know what is machine learning and some basics(different categories of ML, what is training ? What  is testing ? What is dataset..etc)
 
-All the resources to get you started with the program is given in the resources folder. You can learn it and apply for the program!
+All the resources to get you started with the program is given in the [resources folder](https://github.com/tinkerhub-org/ComputerVision-with-PyTorch-Learning-Program/tree/master/resources). You can learn it and apply for the program!
 
 ## Program Schedule
 ### Day 1
