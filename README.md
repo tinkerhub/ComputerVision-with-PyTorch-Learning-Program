@@ -1,5 +1,3 @@
-<div style="text-align:center"><img src="https://github.com/tinkerhub-org/ComputerVision-with-PyTorch-Learning-Program/blob/master/TinkerHub_.png"height="50" width="100"/></div>
-
 # ComputerVision with PyTorch Learning Program
 Computer Vision using PyTorch Learning Program by TinkerHub Foundation. [PyTorch](https://pytorch.org) is an open source deep learning framework created by [Facebook AI research](https://ai.facebook.com). This learning program will cover the following,   
 
