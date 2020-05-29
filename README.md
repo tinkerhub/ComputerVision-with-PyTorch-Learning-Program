@@ -177,5 +177,5 @@ Final google meets session with,
 
 ## Contact for more info
 
-Gopi - gks@tinkerhub.org
-Kurian - kurian@tinkerhub.org
+- Gopi - gks@tinkerhub.org
+- Kurian - kurian@tinkerhub.org
