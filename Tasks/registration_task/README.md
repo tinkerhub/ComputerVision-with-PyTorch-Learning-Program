@@ -19,4 +19,4 @@ to test if your code works.
 4. Invite [Gopi](github.com/GopikrishnanSasikumar) to your repo.
 5. Fill the registration form with your repo url.
 
-Use can use this [reference](https://machinelearningmastery.com/implement-simple-linear-regression-scratch-python/).  
+You can use this [reference](https://machinelearningmastery.com/implement-simple-linear-regression-scratch-python/).  
