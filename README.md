@@ -9,6 +9,18 @@ Computer Vision using PyTorch Learning Program by TinkerHub Foundation. [PyTorch
 
 We will be extensively using the PyTorch docs for conducting this program. 
 
+## Join the program
+This learning program need you to have knowledge in following areas,
+1. Python
+2. GitHub
+3. Basics of Machine Learning
+
+If you are confident in the above areas go ahead and fill this [form](https://forms.gle/MVbuAjQxWazsmbMw6).
+There is a task waiting for you there!
+
+If you need to brush up your skills in any of the above mentioned areas, worry not. Go through this set of [resources](https://github.com/tinkerhub-org/ComputerVision-with-PyTorch-Learning-Program/tree/master/resources) we created and join the program!
+
+
 ## General Program Structure 
 Every 2 days we will share a chapter of the PyTorch docs in the morning. Participants should go through it. In the evening of the odd days we will give a task. On the following day there will be hangouts sessions with mentors. 
 
@@ -158,10 +170,12 @@ Final google meets session with,
 * Project demos. 
 * Certificates distribution. 
 
-## Join the program
-
-Registration form will be open soon!
 
 ## Contributors 
 
 - [Gopikrishnan Sasikumar](https://github.com/GopikrishnanSasikumar)
+
+## Contact for more info
+
+Gopi - gks@tinkerhub.org
+Kurian - kurian@tinkerhub.org
