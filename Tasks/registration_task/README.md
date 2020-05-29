@@ -1,7 +1,7 @@
 # The Short Listing task
 
 
-Inside the ```main.py``` there is a class LinearRegression() Implement it.
+Inside the ```main.py``` there is a class LinearRegression() Implement it without using python and numpy.
 ## Requirements
 
 1. The class should have methods fit() and predict()
