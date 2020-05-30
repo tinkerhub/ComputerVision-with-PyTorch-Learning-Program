@@ -1,7 +1,6 @@
 # The Short Listing task
 
-
-Inside the ```main.py``` there is a class LinearRegression() Implement it with using python and numpy.
+Inside the ```main.py``` there is a class LinearRegression() Implement it using python and numpy. After finishing the task don't forget to fill the [application form](https://forms.gle/MVbuAjQxWazsmbMw6).
 ## Requirements
 
 1. The class should have methods fit() and predict()
@@ -17,6 +16,7 @@ to test if your code works.
 2. Copy the code of ```main.py``` and ```test.py``` to corresponding ```main.py``` and ```test.py``` in your private repo.
 3. Finish the LinearRegression class.
 4. Invite [Gopi](github.com/GopikrishnanSasikumar) to your repo.
-5. Fill the registration form with your repo url.
+5. Fill the [application form](https://forms.gle/MVbuAjQxWazsmbMw6) with your repo url.
 
 You can use this [reference](https://machinelearningmastery.com/implement-simple-linear-regression-scratch-python/).  
+
