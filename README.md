@@ -49,7 +49,7 @@ Google meets with the following contents:
 * Prerequisites, installations, getting to know each other. 
 
 ### Day 2
-Morning : In the slack channel we share the following content. 
+Morning : In the telegram channel we share the following content. 
 
 1. [What is PyTorch ?](https://pytorch.org/tutorials/beginner/blitz/tensor_tutorial.html#sphx-glr-beginner-blitz-tensor-tutorial-py) 
 2. [Autograd: Automatic Differentiation](https://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html#sphx-glr-beginner-blitz-autograd-tutorial-py)
@@ -63,10 +63,10 @@ Participants should,
 * Ask doubts in the github repo issues. 
 
 
-Evening : A task will be given in the slack channel. Participants should try to do the task, upload the code to the specified GitHub repo. 
+Evening : A task will be given in the telegram channel. Participants should try to do the task, upload the code to the specified GitHub repo. 
 
 ### Day 3
-Morning : In the slack channel we share the following content. 
+Morning : In the telegram channel we share the following content. 
 
 1. [Neural Networks](https://pytorch.org/tutorials/beginner/blitz/neural_networks_tutorial.html#sphx-glr-beginner-blitz-neural-networks-tutorial-py) 
 2. [Training a Classifier](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html#sphx-glr-beginner-blitz-cifar10-tutorial-py) 
@@ -80,7 +80,7 @@ Participants should,
 * Ask doubts in the github repo issues. 
 
 
-Evening : A task will be given in the slack channel. Participants should try to do the task, upload the code to the specified GitHub repo. 
+Evening : A task will be given in the telegram channel. Participants should try to do the task, upload the code to the specified GitHub repo. 
 
 ### Day 4
 Google meets sessions with the mentor in the evening. 
@@ -90,7 +90,7 @@ Google meets sessions with the mentor in the evening.
 
 
 ### Day 5
-Morning : In the slack channel we share the following content.
+Morning : In the telegram channel we share the following content.
 
 1. [What is torch.nn really ?](https://pytorch.org/tutorials/beginner/nn_tutorial.html) 
 2. [Visualising models, data and training with TensorBoard](https://pytorch.org/tutorials/intermediate/tensorboard_tutorial.html) 
@@ -103,7 +103,7 @@ Participants should,
 * Ask doubts in the github repo issues. 
 
 
-Evening : A task will be given in the slack channel. Participants should try to do the task, upload the code to the specified GitHub repo. 
+Evening : A task will be given in the telegram channel. Participants should try to do the task, upload the code to the specified GitHub repo. 
 
 ### Day 6
 Google meets session with mentor(s) in the evening,
@@ -120,7 +120,7 @@ Google meets session on,
 3. TorchVision library. 
 
 ### Day 8
-In the morning the following content will be shared in slack. 
+In the morning the following content will be shared in telegram. 
 
 
 1. [TorchVision fine tuning for computer vision tutorial](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html)
