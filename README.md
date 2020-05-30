@@ -60,7 +60,7 @@ Participants should,
 * Go through the docs and learn.  
 * Try out each of the code snippets in the docs. 
 * Note down the doubts. 
-* Ask doubts in slack. 
+* Ask doubts in the github repo issues. 
 
 
 Evening : A task will be given in the slack channel. Participants should try to do the task, upload the code to the specified GitHub repo. 
@@ -77,7 +77,7 @@ Participants should,
 * Go through the docs and learn.  
 * Try out each of the code snippets in the docs. 
 * Note down the doubts. 
-* Ask doubts in slack. 
+* Ask doubts in the github repo issues. 
 
 
 Evening : A task will be given in the slack channel. Participants should try to do the task, upload the code to the specified GitHub repo. 
@@ -100,7 +100,7 @@ Participants should,
 * Go through the docs and learn.  
 * Try out each of the code snippets in the docs. 
 * Note down the doubts. 
-* Ask doubts in slack. 
+* Ask doubts in the github repo issues. 
 
 
 Evening : A task will be given in the slack channel. Participants should try to do the task, upload the code to the specified GitHub repo. 
@@ -132,7 +132,7 @@ Participants should,
 * Go through the doc and try to understand. 
 * Note down the doubts. 
 * Try out the code. 
-* Ask doubts in slack. 
+* Ask doubts in the github repo issues. 
 
 ### Day 9
 Google meets sessions with the mentor in the evening. 
@@ -164,7 +164,7 @@ Mentor(s) verify the project ideas. Participants make the changes.
 Project days. 
 
 * Participants do the project.
-* Ask doubts to the mentors in slack and via call. 
+* Ask doubts to the mentors in github issues and via call. 
 * Upload the code and trained models to the repo. 
 
 ### Day 15
