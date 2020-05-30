@@ -9,27 +9,33 @@ Computer Vision using PyTorch Learning Program by TinkerHub Foundation. [PyTorch
 
 We will be extensively using the PyTorch docs for conducting this program. 
 
+## Participants criteria 
+* Should know object oriented programming and python. 
+* Should know Git and GitHub. 
+* Should know what is machine learning and some basics(different categories of ML, what is training ? What  is testing ? What is dataset..etc)
+
+All the resources to get you started with the program is given in the [resources folder](https://github.com/tinkerhub-org/ComputerVision-with-PyTorch-Learning-Program/tree/master/resources). You can learn it and finish the task for joining the program!
+
 ## Join the program
 This learning program need you to have knowledge in following areas,
 1. Python
 2. GitHub
 3. Basics of Machine Learning
 
-If you are confident in the above areas go ahead and fill this [form](https://forms.gle/MVbuAjQxWazsmbMw6).
-There is a task waiting for you there!
+We have a coding task for selction process. You could check out the task and how to submit task [here](https://github.com/tinkerhub-org/ComputerVision-with-PyTorch-Learning-Program/tree/master/Tasks/registration_task). 
 
-If you need to brush up your skills in any of the above mentioned areas, worry not. Go through this set of [resources](https://github.com/tinkerhub-org/ComputerVision-with-PyTorch-Learning-Program/tree/master/resources) we created and join the program!
+## Selection process
 
+- once the task is completed, You could fill this google form
+
+- we will update the selction status latest by 5th June. 
+
+- Program starts on 6th June.
 
 ## General Program Structure 
 Every 2 days we will share a chapter of the PyTorch docs in the morning. Participants should go through it. In the evening of the odd days we will give a task. On the following day there will be hangouts sessions with mentors. 
 
-## Participants criteria 
-* Should know object oriented programming and python. 
-* Should know Git and GitHub. 
-* Should know what is machine learning and some basics(different categories of ML, what is training ? What  is testing ? What is dataset..etc)
 
-All the resources to get you started with the program is given in the [resources folder](https://github.com/tinkerhub-org/ComputerVision-with-PyTorch-Learning-Program/tree/master/resources). You can learn it and apply for the program!
 
 ## Program Schedule
 ### Day 1
