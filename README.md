@@ -181,7 +181,11 @@ Final google meets session with,
 
 - [Gopikrishnan Sasikumar](https://github.com/GopikrishnanSasikumar)
 
+## Partners
+- [Facebook Developer Circles Cochin](https://www.facebook.com/groups/DevCKochi/about/)
+Facebook developer circles cochin is the chapter of [facebook developer circles]((https://developers.facebook.com/developercircles/)) in cochin. They are a vibrant developer community conducting lots of amazing programs around technology.
 ## Contact for more info
 
 - Gopi - gks@tinkerhub.org
 - Kurian - kurian@tinkerhub.org
+
