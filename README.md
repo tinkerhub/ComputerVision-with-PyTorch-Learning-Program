@@ -22,7 +22,9 @@ This learning program need you to have knowledge in following areas,
 2. GitHub
 3. Basics of Machine Learning
 
-We have a coding task for selction process. You could check out the task and how to submit task [here](https://github.com/tinkerhub-org/ComputerVision-with-PyTorch-Learning-Program/tree/master/Tasks/registration_task). 
+We have a coding task for selction process. You could check out the task and how to submit task [here](https://github.com/tinkerhub-org/ComputerVision-with-PyTorch-Learning-Program/tree/master/Tasks/registration_task).
+
+[![Watch this video for reference](https://img.youtube.com/vi/Y-ikkxfBwIc/maxresdefault.jpg)](https://youtu.be/Y-ikkxfBwIc)
 
 ## Selection process
 
