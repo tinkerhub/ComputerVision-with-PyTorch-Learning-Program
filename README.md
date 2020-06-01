@@ -1,8 +1,5 @@
 # ComputerVision with PyTorch Learning Program
 
-[![Watch this video for reference](https://github.com/tinkerhub-org/ComputerVision-with-PyTorch-Learning-Program/blob/master/resources/th_pytorch_reference.png)](https://youtu.be/Y-ikkxfBwIc)
-
-
 Computer Vision using PyTorch Learning Program by TinkerHub Foundation. [PyTorch](https://pytorch.org) is an open source deep learning framework created by [Facebook AI research](https://ai.facebook.com). This learning program will cover the following,   
 
 * Computer vision. 
@@ -27,6 +24,10 @@ This learning program need you to have knowledge in following areas,
 3. Basics of Machine Learning
 
 We have a coding task for selction process. You could check out the task and how to submit task [here](https://github.com/tinkerhub-org/ComputerVision-with-PyTorch-Learning-Program/tree/master/Tasks/registration_task).
+Watch the following video for reference.
+
+[![Watch this video for reference](https://github.com/tinkerhub-org/ComputerVision-with-PyTorch-Learning-Program/blob/master/resources/th_pytorch_reference.png)](https://youtu.be/Y-ikkxfBwIc)
+
 
 ## Selection process
 
@@ -35,6 +36,8 @@ We have a coding task for selction process. You could check out the task and how
 - we will update the selction status latest by 5th June. 
 
 - Program starts on 6th June.
+
+
 
 ## General Program Structure 
 Every 2 days we will share a chapter of the PyTorch docs in the morning. Participants should go through it. In the evening of the odd days we will give a task. On the following day there will be hangouts sessions with mentors. 
