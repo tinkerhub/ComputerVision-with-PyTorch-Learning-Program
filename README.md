@@ -1,6 +1,8 @@
 # ComputerVision with PyTorch Learning Program
 
-[![Watch this video for reference](https://img.youtube.com/vi/Y-ikkxfBwIc/hqdefault.jpg)](https://youtu.be/Y-ikkxfBwIc)
+[![Watch this video for reference](https://img.youtube.com/vi/Y-ikkxfBwIc/maxresdefault.jpg)](https://youtu.be/Y-ikkxfBwIc)
+
+
 Computer Vision using PyTorch Learning Program by TinkerHub Foundation. [PyTorch](https://pytorch.org) is an open source deep learning framework created by [Facebook AI research](https://ai.facebook.com). This learning program will cover the following,   
 
 * Computer vision. 
@@ -179,18 +181,4 @@ Final google meets session with,
 * Certificates distribution. 
 
 
-## Contributors 
-
-- [Gopikrishnan Sasikumar](https://github.com/GopikrishnanSasikumar)
-
-## Program Partner
-
-### Facebook Developer Circle : Kochi 
-
-[Facebook Developer Circle Kochi](https://www.facebook.com/groups/DevCKochi/) is a forum for developers in Kochi, India and its surroundings who are interested in building on the [Facebook platform](https://developers.facebook.com/developercircles/) to interact and collaborate other developers who share similar interests.
-
-## Contact for more info
-
-- Gopi - gks@tinkerhub.org
-- Kurian - kurian@tinkerhub.org
-
+## Contr
