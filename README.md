@@ -184,4 +184,6 @@ Final google meets session with,
 * Certificates distribution. 
 
 
-## Contr
+## Contributors
+
+- [GopikrishnanSasikumar](https://github.com/GopikrishnanSasikumar)
