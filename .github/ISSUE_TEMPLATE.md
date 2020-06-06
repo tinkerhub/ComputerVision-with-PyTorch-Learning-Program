@@ -1,13 +1,13 @@
 ## Specific Question
-
+> Ask your question here.
 ## OS, package manager and PyTorch Version
-
-OS -
-PyTorch Version -
-Package Manager -
+> Add the following details.
+* OS -
+* PyTorch Version -
+* Package Manager -
 
 ## Complete Error Log
-
+> Add your error log here
 
 ## Guidelines 
 - Remove these guidelines before filing the issue.
