@@ -9,8 +9,8 @@
 ## Complete Error Log
 > Add your error log here
 
+👇🏿 Remove these guidelines before filing the issue.
 ## Guidelines 
-- Remove these guidelines before filing the issue.
 
 > Please google/duckduckgo before asking here
 
