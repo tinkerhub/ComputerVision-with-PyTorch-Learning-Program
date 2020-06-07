@@ -183,5 +183,10 @@ Final google meets session with,
 * Project demos. 
 * Certificates distribution. 
 
+## Program partner
 
-## Contr
+[Facebook Developer Circle Kochi](https://www.facebook.com/groups/DevCKochi/about/) is a forum for developers in Kochi, India and its surroundings who are interested in building on the Facebook platform to interact and collaborate other developers who share similar interests.
+
+## Contributors
+
+- [GopikrishnanSasikumar](https://github.com/GopikrishnanSasikumar)
