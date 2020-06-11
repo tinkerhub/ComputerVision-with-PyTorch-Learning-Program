@@ -12,9 +12,9 @@ class Net(nn.Module):
         self.output = nn.Linear(100, D_out)
 
     def forward(self, x):
-        x = self.sigmoid(self.input(x))
+        x = self.input(x)
         x = self.sigmoid(self.h1(x))
-        x = self.sigmoid(self.h2(x))
+        x = self.h2(x)
         x = self.output(x)
         return x
 
