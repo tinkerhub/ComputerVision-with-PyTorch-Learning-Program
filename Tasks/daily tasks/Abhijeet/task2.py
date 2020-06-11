@@ -11,9 +11,9 @@ class Network(nn.Module):
 
     def forward(self, x):
         x= self.fc1(x)
-        x = F.Sigmoid(x)
+        x = nn.Sigmoid(x)
         x=self.fc2(x)
-        x = F.Sigmoid(x)
+        x = nn.Sigmoid(x)
         x = self.Output(x)
         return x
 
