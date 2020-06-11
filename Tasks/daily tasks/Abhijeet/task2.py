@@ -14,7 +14,7 @@ class Network(nn.Module):
         x = F.Sigmoid(x)
         x=self.fc2(x)
         x = F.Sigmoid(x)
-        x = self.fc3(x)
+        x = self.Output(x)
         return x
 
 
