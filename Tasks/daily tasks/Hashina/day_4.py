@@ -1,4 +1,5 @@
 from torch import nn
+
 class Network(nn.Module):
     def __init__(self):
         super().__init__()
