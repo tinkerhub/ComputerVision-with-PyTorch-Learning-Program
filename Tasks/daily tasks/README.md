@@ -19,3 +19,11 @@ Day 1 was fun!
 1. Create two numpy arrays of size 5x3 and 3x4. 
 2. Convert them into torch tensors.
 3. Multiply the two tensors and print the result.
+
+## Day 4 
+## Create a neural network using pytorch
+Create a neural network with the following configurations
+1. An input layer.
+2. Two hidden layers.
+3. An output layer.
+4. torch.nn.Sigmoid functions in between hidden layers.
