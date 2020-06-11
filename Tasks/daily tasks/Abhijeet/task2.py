@@ -8,6 +8,7 @@ class Network(nn.Module):
         self.fc1 = nn.Linear(400, 120)
         self.fc2 = nn.Linear(120, 84)
         self.Output = nn.Linear(84, 10)
+        
 
     def forward(self, x):
         x= self.fc1(x)
