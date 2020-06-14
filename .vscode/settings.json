@@ -1,6 +1,0 @@
-{
-    "python.pythonPath": "C:\\Users\\abhin\\AppData\\Local\\Programs\\Python\\Python36\\python.exe",
-    "python.linting.enabled": true,
-    "python.linting.pylintEnabled": false,
-    "python.linting.banditEnabled": true
-}
