@@ -8,8 +8,8 @@ class Net(nn.Module):
   self.layer2 = nn.Linear(84, 10)
   
   def forward(self, x):
-    x = torch.sigmoid(self.layer1(x))
-    x = self.layer2(x)
+    x = self.layer1(x)
+    x = torch.sigmoid(self.layer2(x))
 
 net = Net()
 input = torch.randn(120)
