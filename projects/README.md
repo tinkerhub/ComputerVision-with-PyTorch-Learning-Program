@@ -17,7 +17,7 @@ Create a github repo for your project. In the README file add the following deta
 4. Info about the model you are going to be used.
 
 
-Update your details in the teams.md file. Mentor will evaluate your project and give necessary feedbacks. 
+Update your details in the teams form. Mentor will evaluate your project and give necessary feedbacks. 
 
 
 
