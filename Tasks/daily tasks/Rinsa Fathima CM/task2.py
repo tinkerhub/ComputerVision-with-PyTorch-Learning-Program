@@ -1,21 +1,14 @@
+import numpy as np
 import torch
-import torch.nn as nn
 
-class Net(nn.Module):
-    def __init__(self):
-        super(Net,self).__init__()
-        self.input=nn.Linear(400,200)
-        self.hidden1=nn.Linear(200,100)
-        self.sigmoid=nn.Sigmoid()
-        self.hidden2=nn.Linear(100,50)
-        self.output=nn.Linear(50,25)
+#creating numpy arrays
+a=np.random.randint(15,size=(5,3))
+b=np.random.randint(5,size=(3,4))
 
-    def forward(self,x):
-        x=self.input(x)
-        x=self.hidden1(x)
-        x=self.sigmoid(x)
-        x=self.hidden2(x)
-        x=self.output(x)
-        return x
-model=Net()
-print(model)
+#converting numpy arrays to torch tensors
+c=torch.from_numpy(a)
+d=torch.from_numpy(b)
+
+#multiplying torch tensors
+product=torch.mm(c,d)
+print(product)
